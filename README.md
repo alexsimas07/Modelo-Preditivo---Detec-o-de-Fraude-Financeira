@@ -56,7 +56,7 @@ A detecção de fraudes é uma das aplicações mais importantes e desafiadoras 
 ## 👨‍💼 Autor
 
 **Alexsander Maia Simas**  
-Pleno Cientista de Dados | Especialista em Machine Learning aplicado ao setor financeiro e de energia  
+Pleno Cientista de Dados | Especialista em Machine Learning aplicado ao setor de energia solar.  
 [LinkedIn](https://www.linkedin.com/in/alexsander-maia-simas-371222112/) | [alexsandermaiat2@gmail.com](mailto:alexsandermaiat2@gmail.com)
 
 ---
