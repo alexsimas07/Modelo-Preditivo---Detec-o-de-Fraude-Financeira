@@ -1,5 +1,9 @@
 # 💸 Modelo de Detecção de Fraude em Transações Financeiras com Machine Learning
 
+![Badge Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Licença](https://img.shields.io/badge/licença-MIT-green)
+
 ## 🔍 Sobre o Projeto
 
 Este projeto tem como objetivo desenvolver um modelo de machine learning para identificar **fraudes em transações bancárias**, utilizando um dataset sintético realista que simula o comportamento de usuários e fraudadores em um sistema financeiro ao longo de 30 dias.
